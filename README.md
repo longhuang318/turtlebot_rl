@@ -1,4 +1,4 @@
-# Note （Tensorflow, turtlebot, Gazebo）
+# Note （Tensorflow, turtlebot, Gazebo, drl）
 
 ## Pre-requisite
 - Install [ROS-Kinetic](http://wiki.ros.org/kinetic/Installation/Ubuntu), recommand Desktop-Full install.
